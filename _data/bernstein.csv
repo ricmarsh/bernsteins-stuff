@@ -1,4 +1,4 @@
 objectid,filename,parentid,title,creator,date,description,subject,location,source,identifier,type,format,language,rights,rightsstatement
 b0682,bernstein_sign1.jpg,b9191,Leonard Bernstein Place Sign,,,,Miscellaneous -- Objects,,,,,image/jpeg,,,
 b0101,phil_interview.mp3,b9191,Phil Interview,,,,,,,,,audio/mp3,,,
-b9191,test_compound,,Leonard Bernstein Place Sign,,,,,,,,,compound_object,,,
+b9191,test_compound,,Leonard Bernstein Place Sign,,,,,,,,,multiple,,,
