@@ -1,6 +1,6 @@
 objectid,filename,title,parentid,date,description,subject,identifier,format
 b0682,bernstein_sign1.jpg,Leonard Bernstein Place Sign,b9191,,,Miscellaneous -- Objects,,image/jpeg
 b9191,test_compound,Leonard Bernstein Place Sign,,,,,,compound_object
-bs001-0,,Michael Jackson Drawing,,,,,,compound_object
+bs001-0,placeholder.jpg,Michael Jackson Drawing,,,,,,compound_object
 bs001-1,placeholder.jpg,Michael Jackson Drawing,bs001-0,,,,,image/jpeg
 bs001-2,phil_interview_mj.mp3,Backtory as told by Phil Ponella,bs001-0,,,,,audio/mp3
