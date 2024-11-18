@@ -4,3 +4,6 @@ b9191,test_compound,Leonard Bernstein Place Sign,,,,,,compound_object,
 bs001-0,placeholder.jpg,Michael Jackson Drawing,,,,,,compound_object,placeholder.jpg
 bs001-1,placeholder.jpg,Michael Jackson Drawing,bs001-0,,,,,image/jpeg,
 bs001-2,phil_interview_mj.mp3,Backtory as told by Phil Ponella,bs001-0,,,,,audio/mp3,
+bs002-0,,test,,,,,,compound_object,
+bs002-1,bs002-0,testimage,,,,,,image/jpeg,
+bs002-2,bs002-0,testaudio,,,,,,audio/mp3,
