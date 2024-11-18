@@ -5,5 +5,5 @@ bs001-0,placeholder.jpg,Michael Jackson Drawing,,,,,,compound_object,placeholder
 bs001-1,placeholder.jpg,Michael Jackson Drawing,bs001-0,,,,,image/jpeg,
 bs001-2,phil_interview_mj.mp3,Backtory as told by Phil Ponella,bs001-0,,,,,audio/mp3,
 bs002-0,,test,,,,,,compound_object,
-bs002-1,bs002-0,testimage,,,,,,image/jpeg,
-bs002-2,bs002-0,testaudio,,,,,,audio/mp3,
+bs002-1,,testimage,bs002-0,,,,,image/jpeg,
+bs002-2,,testaudio,bs002-0,,,,,audio/mp3,
