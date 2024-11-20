@@ -1,5 +1,5 @@
 objectid,filename,title,parentid,date,description,subject,identifier,format
-bs001-0,placeholder.jpg,Michael Jackson Drawing,,,,,,compound_object; image/jpeg
+bs001-0,placeholder.jpg,Michael Jackson Drawing,,,,,,multiple
 bs001-1,,Michael Jackson Drawing,bs001-0,,,,,image/jpeg
 bs001-2,phil_interview_mj.mp3,Backtory as told by Phil Ponella,bs001-0,,Phil talks about the MJ picture,,,audio/mp3
 bs002-0,,Baby Grand Piano,,,,,,compound_object
