@@ -13,10 +13,10 @@ bs004-1,,,,,,,,
 bs004-2,phil_interview_grammy1.mp3,,bs004-0,,,,,audio/mp3
 bs004-3,phil_interview_grammy2.mp3,,bs004-0,,,,,audio/mp3
 bs005-0,bs005-0.jpg,Bernstein Collage,,,,,B0486,compound_object; image/jpeg
-bs005-1,bs005-1.jpg,,bs005-0,,,,,image/jpeg
-bs005-2,bs005-2.jpg,,bs005-0,,,,,image/jpeg
+bs005-1,bs005-1.jpg,Bernstein Collage,bs005-0,,,,,image/jpeg
+bs005-2,bs005-2.jpg,Bernstein Collage,bs005-0,,,,,image/jpeg
 bs006-0,bs006-0.jpg,Bronze Bust,,,,,B0892,image/jpeg
-bs006-1,bs006-1.jpg,,bs006-0,,,,,image/jpeg
+bs006-1,bs006-1.jpg,Bronze Bust,bs006-0,,,,,image/jpeg
 bs007-0,,,,,,,,
 bs008-0,,,,,,,,
 bs009-0,,,,,,,,
