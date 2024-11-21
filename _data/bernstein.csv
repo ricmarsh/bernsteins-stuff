@@ -6,9 +6,11 @@ bs001-3,phil_interview_mj.mp3,Backtory as told by Phil Ponella,bs001-0,,Phil tal
 bs002-0,,Baby Grand Piano,,,,,,compound_object
 bs002-1,,testimage,bs002-0,,,,,image/jpeg
 bs002-2,phil_interview_piano.mp3,Backtory as told by Phil Ponella,bs002-0,,,,,audio/mp3
-bs003-0,,[brahms stool],,,,,,compound_object
-bs003-1,,,,,,,,
-bs003-2,phil_interview_brahms_stool.mp3,Conductor's Stool,bs003-0,,,,,audio/mp3
+bs003-0,bs003-0.jpg,[brahms stool],,,,,,compound_object; image/jpeg
+bs003-1,bs003-0.jpg,,bs003-0,,,,,image/jpeg
+bs003-2,bs003-1.jpg,,bs003-0,,,,,image/jpeg
+bs003-3,bs003-2.jpg,,bs003-0,,,,,image/jpeg
+bs003-4,phil_interview_brahms_stool.mp3,Conductor's Stool,bs003-0,,,,,audio/mp3
 bs004-0,,[grammy],,,,,,compound_object
 bs004-1,,,,,,,,
 bs004-2,phil_interview_grammy1.mp3,,bs004-0,,,,,audio/mp3
@@ -20,7 +22,9 @@ bs005-3,bs005-2.jpg,"Bernstein Collage, right half",bs005-0,,,,,image/jpeg
 bs006-0,bs006-0.jpg,Bronze Bust,,,,,B0892,compound_object; image/jpeg
 bs006-1,bs006-0.jpg,Bronze Bust,bs006-0,,,,,image/jpeg
 bs006-2,bs006-1.jpg,.,bs006-0,,,,,image/jpeg
-bs007-0,,,,,,,,
+bs007-0,bs007-0.jpg,[berlin wall],,,,,,compound_object; image/jpeg
+bs007-1,bs007-0.jpg,,,,,,,image/jpeg
+bs007-2,bs007-1.jpg,,,,,,,image/jpeg
 bs008-0,,,,,,,,
 bs009-0,,,,,,,,
 bs010-0,,,,,,,,
