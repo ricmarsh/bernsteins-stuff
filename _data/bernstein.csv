@@ -1,7 +1,8 @@
 objectid,filename,title,parentid,date,description,subject,identifier,format
 bs001-0,placeholder.jpg,Michael Jackson Drawing,,,,,,compound_object; image/jpeg
 bs001-1,placeholder.jpg,Michael Jackson Drawing,bs001-0,,,,,image/jpeg
-bs001-2,phil_interview_mj.mp3,Backtory as told by Phil Ponella,bs001-0,,Phil talks about the MJ picture,,,audio/mp3
+bs001-2,bs001-2.jpg,Photo of Bernstein and Jackson's meeting,,,,,,image/jpeg
+bs001-3,phil_interview_mj.mp3,Backtory as told by Phil Ponella,bs001-0,,Phil talks about the MJ picture,,,audio/mp3
 bs002-0,,Baby Grand Piano,,,,,,compound_object
 bs002-1,,testimage,bs002-0,,,,,image/jpeg
 bs002-2,phil_interview_piano.mp3,Backtory as told by Phil Ponella,bs002-0,,,,,audio/mp3
@@ -13,10 +14,12 @@ bs004-1,,,,,,,,
 bs004-2,phil_interview_grammy1.mp3,,bs004-0,,,,,audio/mp3
 bs004-3,phil_interview_grammy2.mp3,,bs004-0,,,,,audio/mp3
 bs005-0,bs005-0.jpg,Bernstein Collage,,,,,B0486,multiple; image/jpeg
-bs005-1,bs005-1.jpg,Bernstein Collage,bs005-0,,,,,image/jpeg
-bs005-2,bs005-2.jpg,Bernstein Collage,bs005-0,,,,,image/jpeg
-bs006-0,bs006-0.jpg,Bronze Bust,,,,,B0892,image/jpeg
-bs006-1,bs006-1.jpg,Bronze Bust,bs006-0,,,,,image/jpeg
+bs005-1,bs005-0.jpg,Bernstein Collage,bs005-0,,,,,
+bs005-2,bs005-1.jpg,"Bernstein Collage, left half",bs005-0,,,,,image/jpeg
+bs005-3,bs005-2.jpg,"Bernstein Collage, right half",bs005-0,,,,,image/jpeg
+bs006-0,bs006-0.jpg,Bronze Bust,,,,,B0892,multiple; image/jpeg
+bs006-1,bs006-0.jpg,Bronze Bust,bs006-0,,,,,image/jpeg
+bs006-2,bs006-1.jpg,,bs006-0,,,,,image/jpeg
 bs007-0,,,,,,,,
 bs008-0,,,,,,,,
 bs009-0,,,,,,,,
