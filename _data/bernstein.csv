@@ -11,7 +11,7 @@ bs003-1,bs003-0.jpg,,bs003-0,,,,,image/jpeg
 bs003-2,bs003-1.jpg,,bs003-0,,,,,image/jpeg
 bs003-3,bs003-2.jpg,,bs003-0,,,,,image/jpeg
 bs003-4,phil_interview_brahms_stool.mp3,Conductor's Stool,bs003-0,,,,,audio/mp3
-bs004-0,placeholder.jpg,[grammy],,,,,,compound_object
+bs004-0,placeholder.jpg,[grammy],,,,,,compound_object; image/jpeg
 bs004-1,,,,,,,,
 bs004-2,phil_interview_grammy1.mp3,phil interview,bs004-0; bs016-0,,,,,audio/mp3
 bs004-3,phil_interview_grammy2.mp3,,bs004-0,,,,,audio/mp3
@@ -56,7 +56,7 @@ bs017-0,bs017-0.jpg,Billboard Award 1966,,1966,,Awards; Other Awards,B0888,image
 bs018-0,bs018-0.jpg,Rush Hour Drawing,,,,Artwork; Images,B0002,image/jpeg
 bs019-0,bs019-0.jpg,[Underwear Advertisement Plate],,,,Houeshold Items; Accessories,B0530,image/jpeg
 bs020-0,bs020-0.jpg,Leonard Bernstein Place Sign,,,,Miscellaneous; Objects,B0682,image/jpeg
-bs021-0,,,,,,,,
+bs021-0,bs021-0.jpg,Afrin Nasal Spray,,,,Miscellaneous; Objects,B0171,image/jpeg
 bs022-0,,,,,,,,
 bs023-0,,,,,,,,
 bs024-0,,,,,,,,
