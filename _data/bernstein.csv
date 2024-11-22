@@ -12,9 +12,9 @@ bs003-2,bs003-1.jpg,,bs003-0,,,,,image/jpeg
 bs003-3,bs003-2.jpg,,bs003-0,,,,,image/jpeg
 bs003-4,phil_interview_brahms_stool.mp3,Conductor's Stool,bs003-0,,,,,audio/mp3
 bs004-0,placeholder.jpg,[grammy],,,,,,compound_object; image/jpeg
-bs004-1,,,,,,,,
+bs004-1,placeholder.jpg,test,,,,,,image/jpeg
 bs004-2,phil_interview_grammy1.mp3,phil interview,bs004-0; bs016-0,,,,,audio/mp3
-bs004-3,phil_interview_grammy2.mp3,,bs004-0,,,,,audio/mp3
+bs004-3,phil_interview_grammy2.mp3,phil interview,bs004-0,,,,,audio/mp3
 bs005-0,bs005-0.jpg,Bernstein Collage,,,,Artwork; Bernstein Featured,B0486,compound_object; image/jpeg
 bs005-1,bs005-0.jpg,Bernstein Collage,bs005-0,,,,,image/jpeg
 bs005-2,bs005-1.jpg,"Bernstein Collage, left half",bs005-0,,,,,image/jpeg
