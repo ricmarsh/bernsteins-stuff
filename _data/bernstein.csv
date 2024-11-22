@@ -1,19 +1,19 @@
 objectid,filename,title,parentid,date,description,subject,identifier,format
 bs001-0,placeholder.jpg,Michael Jackson Drawing,,,,Artwork; Images,B0019,compound_object; image/jpeg
 bs001-1,placeholder.jpg,Michael Jackson Drawing,bs001-0,,,,,image/jpeg
-bs001-2,bs001-2.jpg,Photo of Bernstein and Jackson's meeting,bs001-0,,,,,image/jpeg
+bs001-2,bs001-2.jpg,Photo of Bernstein and Jackson's meeting,bs001-0,,"Photograph from the Vatican tour that brought Leonard Bernstein and Michael Jackson together. <p>Pictured (from left to right): Quincy Jones, Michael Jackson, Leonard Bernstein, Jamie Bernstein, David Pack</p>",,,image/jpeg
 bs001-3,phil_interview_mj.mp3,Backtory as told by Phil Ponella,bs001-0,,Phil talks about the MJ picture,,,audio/mp3
 bs002-0,bs002-0.jpg,Baby Grand Piano,,,,Household Items; Music Items,B0881,compound_object; image/jpeg
 bs002-1,bs002-0.jpg,Baby Grand Piano,bs002-0,,,,,image/jpeg
 bs002-2,phil_interview_piano.mp3,Backtory as told by Phil Ponella,bs002-0,,,,,audio/mp3
 bs003-0,bs003-0.jpg,Conductor's Stool,,,,Household Items; Furniture,B0080,compound_object; image/jpeg
-bs003-1,bs003-0.jpg,,bs003-0,,,,,image/jpeg
-bs003-2,bs003-1.jpg,,bs003-0,,,,,image/jpeg
-bs003-3,bs003-2.jpg,,bs003-0,,,,,image/jpeg
+bs003-1,bs003-0.jpg,Conductor's Stool,bs003-0,,,,,image/jpeg
+bs003-2,bs003-1.jpg,Conductor's Stool,bs003-0,,,,,image/jpeg
+bs003-3,bs003-2.jpg,Conductor's Stool,bs003-0,,,,,image/jpeg
 bs003-4,phil_interview_brahms_stool.mp3,Conductor's Stool,bs003-0,,,,,audio/mp3
 bs004-0,placeholder.jpg,[grammy],,,,,,compound_object; image/jpeg
 bs004-1,placeholder.jpg,test,,,,,,image/jpeg
-bs004-2,phil_interview_grammy1.mp3,phil interview,bs004-0; bs016-0,,,,,audio/mp3
+bs004-2,phil_interview_grammy1.mp3,phil interview,bs004-0,,,,,audio/mp3
 bs004-3,phil_interview_grammy2.mp3,phil interview,bs004-0,,,,,audio/mp3
 bs005-0,bs005-0.jpg,Bernstein Collage,,,,Artwork; Bernstein Featured,B0486,compound_object; image/jpeg
 bs005-1,bs005-0.jpg,Bernstein Collage,bs005-0,,,,,image/jpeg
@@ -57,6 +57,7 @@ bs018-0,bs018-0.jpg,Rush Hour Drawing,,,,Artwork; Images,B0002,image/jpeg
 bs019-0,bs019-0.jpg,[Underwear Advertisement Plate],,,,Houeshold Items; Accessories,B0530,image/jpeg
 bs020-0,bs020-0.jpg,Leonard Bernstein Place Sign,,,,Miscellaneous; Objects,B0682,image/jpeg
 bs021-0,bs021-0.jpg,Afrin Nasal Spray,,,,Miscellaneous; Objects,B0171,image/jpeg
-bs022-0,,,,,,,,
+bs022-0,bs022-0.jpg,Austrian Chardonnay,,1986,,Houeshold Items; Accessories,B0120,compound_object; image/jpeg
+bs022-1,,,,,,,,
 bs023-0,,,,,,,,
 bs024-0,,,,,,,,
