@@ -3,7 +3,7 @@ bs001-0,placeholder.jpg,Michael Jackson Drawing,,,,,,compound_object; image/jpeg
 bs001-1,placeholder.jpg,Michael Jackson Drawing,bs001-0,,,,,image/jpeg
 bs001-2,bs001-2.jpg,Photo of Bernstein and Jackson's meeting,bs001-0,,,,,image/jpeg
 bs001-3,phil_interview_mj.mp3,Backtory as told by Phil Ponella,bs001-0,,Phil talks about the MJ picture,,,audio/mp3
-bs002-0,bs002-0.jpg,Baby Grand Piano,,,,,,compound_object
+bs002-0,bs002-0.jpg,Baby Grand Piano,,,,,,compound_object; image/jpeg
 bs002-1,bs002-0.jpg,Baby Grand Piano,bs002-0,,,,,image/jpeg
 bs002-2,phil_interview_piano.mp3,Backtory as told by Phil Ponella,bs002-0,,,,,audio/mp3
 bs003-0,bs003-0.jpg,[brahms stool],,,,,,compound_object; image/jpeg
@@ -25,7 +25,7 @@ bs006-2,bs006-1.jpg,.,bs006-0,,,,,image/jpeg
 bs007-0,bs007-0.jpg,[berlin wall],,,,,,compound_object; image/jpeg
 bs007-1,bs007-0.jpg,[berlin wall],bs007-0,,,,,image/jpeg
 bs007-2,bs007-1.jpg,[berlin wall],bs007-0,,,,,image/jpeg
-bs008-0,bs008-0.jpg,"Wood Writing Box, Turn of the 19th Century",,,,,B0014,image/jpeg
+bs008-0,bs008-0.jpg,"Wood Writing Box, Turn of the 19th Century",,,,,B0014,compound_object; image/jpeg
 bs008-1,bs008-0.jpg,"Wood Writing Box, closed",bs008-0,,,,,image/jpeg
 bs008-2,bs008-1.jpg,"Wood Writing Box, opened 1",bs008-0,,,,,image/jpeg
 bs008-3,bs008-2.jpg,"Wood Writing Box, opened 2",bs008-0,,,,,image/jpeg
@@ -33,18 +33,24 @@ bs008-4,bs008-3.jpg,Note inside Wood Writing Box,bs008-0,,,,,image/jpeg
 bs009-0,bs009-0.jpg,Gray Desk,,,,,B0868,compound_object; image/jpeg
 bs009-1,bs009-0.jpg,Gray Desk,bs009-0,,,,,image/jpeg
 bs009-2,phil_interview_desks.mp3,phil interview,bs009-0,,,,,audio/mp3
-bs010-0,bs010-0.jpg,Mint Julep Cup,,,,,B0133,image/jpeg
+bs010-0,bs010-0.jpg,Mint Julep Cup,,,,,B0133,compound_object; image/jpeg
 bs010-1,bs010-0.jpg,Mint Julep Cup,bs010-0,,,,,image/jpeg
 bs010-2,bs010-1.jpg,Mint Julep Cup,bs010-0,,,,,image/jpeg
 bs010-3,bs010-2.jpg,Mint Julep Cup,bs010-0,,,,,image/jpeg
 bs010-4,bs010-3.jpg,Also used for scotch,bs010-0,,,,,image/jpeg
-bs011-0,bs011-0.jpg,"Gold Baton, February 2, 1959",,,,,,compound_object; image/jpeg
+bs011-0,bs011-0.jpg,Gold Baton,,1959-02-02,,,B0870,compound_object; image/jpeg
 bs011-1,bs011-0.jpg,Gold Baton ,bs011-0,,,,,image/jpeg
 bs011-2,bs011-1.jpg,Close-up of engraving,bs011-0,,,,,image/jpeg
-bs012-0,,,,,,,,
-bs013-0,,,,,,,,
-bs014-0,,,,,,,,
-bs015-0,,,,,,,,
+bs012-0,bs012-0.jpg,Decanter Tray,,1990-05-08,,,B0871,compound_object; image/jpeg
+bs012-1,bs012-0.jpg,Decanter Tray ,bs012-0,,,,,image/jpeg
+bs012-2,bs012-1.jpg,Decanter Tray,bs012-0,,,,,image/jpeg
+bs013-0,bs013-0.jpg,Olympia Typewriter,,,,,B0500,image/jpeg
+bs014-0,bs014-0.jpg,German Star of Friendship and Certificate,,1989-12-25,,,B0894,compound_object; image/jpeg
+bs014-1,bs014-0.jpg,German Star of Friendship and Certificate ,bs014-0,,,,,image/jpeg
+bs014-2,bs014-1.jpg,"Certificate, open",bs014-0,,,,,image/jpeg
+bs014-3,bs014-2.jpg,"Certificate, closed",bs014-0,,,,,image/jpeg
+bs014-4,bs014-3.jpg,Star of Friendship,bs014-0,,,,,image/jpeg
+bs015-0,bs015-0.jpg,Grammy Hall of Fame Reward,,1991,,,B0643,image/jpeg
 bs016-0,,,,,,,,
 bs017-0,,,,,,,,
 bs018-0,,,,,,,,
