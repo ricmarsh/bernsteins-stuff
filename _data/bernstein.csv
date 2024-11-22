@@ -11,10 +11,12 @@ bs003-1,bs003-0.jpg,Conductor's Stool,bs003-0,,,,,image/jpeg
 bs003-2,bs003-1.jpg,Conductor's Stool,bs003-0,,,,,image/jpeg
 bs003-3,bs003-2.jpg,Conductor's Stool,bs003-0,,,,,image/jpeg
 bs003-4,phil_interview_brahms_stool.mp3,Conductor's Stool,bs003-0,,,,,audio/mp3
-bs004-0,placeholder.jpg,[grammy],,,,,,compound_object; image/jpeg
-bs004-1,placeholder.jpg,test,,,,,,image/jpeg
-bs004-2,phil_interview_grammy1.mp3,phil interview,bs004-0,,,,,audio/mp3
-bs004-3,phil_interview_grammy2.mp3,phil interview,bs004-0,,,,,audio/mp3
+bs004-0,bs004-0.jpg,Grammy Award 1967 - Classical Choral Performance,,1967,,"Awards; Grammys, Emmys, and Oscars",B0879,compound_object; image/jpeg
+bs004-1,bs004-0.jpg,Grammy Award 1967 - Classical Choral Performance,bs004-0,,,,,image/jpeg
+bs004-2,bs004-1.jpg,Profile view,bs004-0,,,,,image/jpeg
+bs004-3,bs004-2.jpg,Close-up of placard,bs004-0,,,,,image/jpeg
+bs004-4,phil_interview_grammy1.mp3,phil interview,bs004-0,,,,,audio/mp3
+bs004-5,phil_interview_grammy2.mp3,phil interview,bs004-0,,,,,audio/mp3
 bs005-0,bs005-0.jpg,Bernstein Collage,,,,Artwork; Bernstein Featured,B0486,compound_object; image/jpeg
 bs005-1,bs005-0.jpg,Bernstein Collage,bs005-0,,,,,image/jpeg
 bs005-2,bs005-1.jpg,"Bernstein Collage, left half",bs005-0,,,,,image/jpeg
@@ -54,10 +56,19 @@ bs015-0,bs015-0.jpg,Grammy Hall of Fame Reward,,1991,,"Awards; Grammys, Emmys, a
 bs016-0,bs016-0.jpg,Grammy Award 1964 - Classical Album of the Year,,1964,,"Awards; Grammys, Emmys, and Oscars",B0877,image/jpeg
 bs017-0,bs017-0.jpg,Billboard Award 1966,,1966,,Awards; Other Awards,B0888,image/jpeg
 bs018-0,bs018-0.jpg,Rush Hour Drawing,,,,Artwork; Images,B0002,image/jpeg
-bs019-0,bs019-0.jpg,[Underwear Advertisement Plate],,,,Houeshold Items; Accessories,B0530,image/jpeg
+bs019-0,bs019-0.jpg,Underwear Advertisement Plate,,,,Houeshold Items; Accessories,B0530,image/jpeg
+bs019-1,bs019-0.jpg,Underwear Advertisement Plate,bs019-0,,,,,image/jpeg
+bs019-2,bs019-1.jpg,Close-up of illustration,bs019-0,,,,,image/jpeg
+bs019-3,bs019-2.jpg,Close-up of text,bs019-0,,,,,image/jpeg
 bs020-0,bs020-0.jpg,Leonard Bernstein Place Sign,,,,Miscellaneous; Objects,B0682,image/jpeg
 bs021-0,bs021-0.jpg,Afrin Nasal Spray,,,,Miscellaneous; Objects,B0171,image/jpeg
 bs022-0,bs022-0.jpg,Austrian Chardonnay,,1986,,Houeshold Items; Accessories,B0120,compound_object; image/jpeg
-bs022-1,,,,,,,,
-bs023-0,,,,,,,,
+bs022-1,bs022-0.jpg,"Austrian Chardonnay, front",bs022-0,,,,,image/jpeg
+bs022-2,bs022-1.jpg,Close-up of front label,bs022-0,,,,,image/jpeg
+bs022-3,bs022-2.jpg,"Austrian Chardonnay, back",bs022-0,,,,,image/jpeg
+bs022-4,bs022-3.jpg,Close-up of back label,bs022-0,,,,,image/jpeg
+bs023-0,bs023-0.jpg,Gold Baseball Cap,,,,Clothing; Other Clothing,B0085,compound_object; image/jpeg
+bs023-1,bs023-0.jpg,Gold Baseball Cap,bs023-0,,,,,image/jpeg
+bs023-2,bs023-1.jpg,"Gold Baseball Cap, profile view",bs023-0,,,,,image/jpeg
+bs023-3,bs023-2.jpg,Gold Baseball Cap on Bernstein Bust,bs023-0,,,,,image/jpeg
 bs024-0,,,,,,,,
