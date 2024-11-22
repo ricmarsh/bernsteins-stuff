@@ -12,7 +12,7 @@ credits: true
 
 
 
-## About the Collection
+## About Bernstein's Stuff
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
