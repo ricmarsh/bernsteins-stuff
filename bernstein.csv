@@ -1,0 +1,82 @@
+objectid,filename,title,parentid,date,description,subject,identifier,format
+bs001-0,bs001-0.jpg,Michael Jackson Drawing,,,,Artwork; Images,B0019,compound_object; image/jpeg
+bs001-1,bs001-0.jpg,Michael Jackson Drawing,bs001-0,,,,,image/jpeg
+bs001-2,bs001-2.jpg,Photo of Bernstein and Jackson's meeting,bs001-0,,"<p>Photograph from the Vatican tour that brought Leonard Bernstein and Michael Jackson together.</p><br><p>Pictured (from left to right): Quincy Jones, Michael Jackson, Leonard Bernstein, Jamie Bernstein, David Pack</p>",,,image/jpeg
+bs001-3,bs024-5.mp3,Story behind the Michael Jackson Drawing,bs001-0,,Phil talks about the MJ picture,,,audio/mp3
+bs002-0,bs002-0.jpg,Baby Grand Piano,,,,Household Items; Music Items,B0881,compound_object; image/jpeg
+bs002-1,bs002-0.jpg,Baby Grand Piano,bs002-0,,,,,image/jpeg
+bs002-2,bs024-8.mp3,Backtory as told by Phil Ponella,bs002-0,,,,,audio/mp3
+bs003-0,bs003-0.jpg,Conductor's Stool,,,,Household Items; Furniture,B0080,compound_object; image/jpeg
+bs003-1,bs003-0.jpg,Conductor's Stool,bs003-0,,,,,image/jpeg
+bs003-2,bs003-1.jpg,Conductor's Stool,bs003-0,,,,,image/jpeg
+bs003-3,bs003-2.jpg,Conductor's Stool,bs003-0,,,,,image/jpeg
+bs003-4,bs024-6.mp3,Brahms' Conductor Stool,bs003-0,,,,,audio/mp3
+bs004-0,bs004-0.jpg,Grammy Award 1967 - Classical Choral Performance,,1967,,"Awards; Grammys, Emmys, and Oscars",B0879,compound_object; image/jpeg
+bs004-1,bs004-0.jpg,Grammy Award 1967 - Classical Choral Performance,bs004-0,,,,,image/jpeg
+bs004-2,bs004-1.jpg,Profile view,bs004-0,,,,,image/jpeg
+bs004-3,bs004-2.jpg,Close-up of placard,bs004-0,,,,,image/jpeg
+bs004-4,bs024-3.mp3,The Grammys,bs004-0,,,,,audio/mp3
+bs004-5,bs024-4.mp3,Grammy anecdote,bs004-0,,,,,audio/mp3
+bs005-0,bs005-0.jpg,Bernstein Collage,,,,Artwork; Bernstein Featured,B0486,compound_object; image/jpeg
+bs005-1,bs005-0.jpg,Bernstein Collage,bs005-0,,,,,image/jpeg
+bs005-2,bs005-1.jpg,"Bernstein Collage, left half",bs005-0,,,,,image/jpeg
+bs005-3,bs005-2.jpg,"Bernstein Collage, right half",bs005-0,,,,,image/jpeg
+bs006-0,bs006-0.jpg,Bronze Bust,,1959,,Artwork; Objects,B0892,compound_object; image/jpeg
+bs006-1,bs006-0.jpg,Bronze Bust,bs006-0,,,,,image/jpeg
+bs006-2,bs006-1.jpg,Bronze Bust,bs006-0,,,,,image/jpeg
+bs007-0,bs007-0.jpg,Berlin Wall Fragment 1,,,,Miscellaneous; Objects,,compound_object; image/jpeg
+bs007-1,bs007-0.jpg,Berlin Wall Fragment 1,bs007-0,,,,,image/jpeg
+bs007-2,bs007-1.jpg,Image of Bernstein chipping wall,bs007-0,,,,,image/jpeg
+bs008-0,bs008-0.jpg,"Wood Writing Box, Turn of the 19th Century",,,,Household Items; Office Items,B0014,compound_object; image/jpeg
+bs008-1,bs008-0.jpg,"Wood Writing Box, closed",bs008-0,,,,,image/jpeg
+bs008-2,bs008-1.jpg,"Wood Writing Box, opened 1",bs008-0,,,,,image/jpeg
+bs008-3,bs008-2.jpg,"Wood Writing Box, opened 2",bs008-0,,,,,image/jpeg
+bs008-4,bs008-3.jpg,Note inside Wood Writing Box,bs008-0,,,,,image/jpeg
+bs009-0,bs009-0.jpg,Gray Desk,,,,Household Items; Furniture,B0868,compound_object; image/jpeg
+bs009-1,bs009-0.jpg,Gray Desk,bs009-0,,,,,image/jpeg
+bs009-2,bs024-7.mp3,Desks,bs009-0,,,,,audio/mp3
+bs010-0,bs010-0.jpg,Mint Julep Cup,,,,Household Items; Accessories,B0133,compound_object; image/jpeg
+bs010-1,bs010-0.jpg,Mint Julep Cup,bs010-0,,,,,image/jpeg
+bs010-2,bs010-1.jpg,Mint Julep Cup,bs010-0,,,,,image/jpeg
+bs010-3,bs010-2.jpg,Mint Julep Cup,bs010-0,,,,,image/jpeg
+bs010-4,bs010-3.jpg,Also used for scotch,bs010-0,,,,,image/jpeg
+bs011-0,bs011-0.jpg,Gold Baton,,1959-02-02,,Household Items; Music Items,B0870,compound_object; image/jpeg
+bs011-1,bs011-0.jpg,Gold Baton ,bs011-0,,,,,image/jpeg
+bs011-2,bs011-1.jpg,Close-up of engraving,bs011-0,,,,,image/jpeg
+bs012-0,bs012-0.jpg,Decanter Tray,,1990-05-08,,Household Items; Accessories,B0871,compound_object; image/jpeg
+bs012-1,bs012-0.jpg,Decanter Tray ,bs012-0,,,,,image/jpeg
+bs012-2,bs012-1.jpg,Decanter Tray,bs012-0,,,,,image/jpeg
+bs013-0,bs013-0.jpg,Olympia Typewriter,,,,Household Items; Office Items,B0500,image/jpeg
+bs014-0,bs014-0.jpg,German Star of Friendship and Certificate,,1989-12-25,,Awards; Other Awards,B0894,compound_object; image/jpeg
+bs014-1,bs014-0.jpg,German Star of Friendship and Certificate ,bs014-0,,,,,image/jpeg
+bs014-2,bs014-1.jpg,"Certificate, open",bs014-0,,,,,image/jpeg
+bs014-3,bs014-2.jpg,"Certificate, closed",bs014-0,,,,,image/jpeg
+bs014-4,bs014-3.jpg,Star of Friendship,bs014-0,,,,,image/jpeg
+bs015-0,bs015-0.jpg,Grammy Hall of Fame Reward,,1991,,"Awards; Grammys, Emmys, and Oscars",B0643,image/jpeg
+bs016-0,bs016-0.jpg,Grammy Award 1964 - Classical Album of the Year,,1964,,"Awards; Grammys, Emmys, and Oscars",B0877,image/jpeg
+bs017-0,bs017-0.jpg,Billboard Award 1966,,1966,,Awards; Other Awards,B0888,image/jpeg
+bs018-0,bs018-0.jpg,Rush Hour Drawing,,,,Artwork; Images,B0002,image/jpeg
+bs019-0,bs019-0.jpg,Underwear Advertisement Plate,,,,Houeshold Items; Accessories,B0530,image/jpeg
+bs019-1,bs019-0.jpg,Underwear Advertisement Plate,bs019-0,,,,,image/jpeg
+bs019-2,bs019-1.jpg,Close-up of illustration,bs019-0,,,,,image/jpeg
+bs019-3,bs019-2.jpg,Close-up of text,bs019-0,,,,,image/jpeg
+bs020-0,bs020-0.jpg,Leonard Bernstein Place Sign,,,,Miscellaneous; Objects,B0682,image/jpeg
+bs021-0,bs021-0.jpg,Afrin Nasal Spray,,,,Miscellaneous; Objects,B0171,image/jpeg
+bs022-0,bs022-0.jpg,Austrian Chardonnay,,1986,,Houeshold Items; Accessories,B0120,compound_object; image/jpeg
+bs022-1,bs022-0.jpg,"Austrian Chardonnay, front",bs022-0,,,,,image/jpeg
+bs022-2,bs022-1.jpg,Close-up of front label,bs022-0,,,,,image/jpeg
+bs022-3,bs022-2.jpg,"Austrian Chardonnay, back",bs022-0,,,,,image/jpeg
+bs022-4,bs022-3.jpg,Close-up of back label,bs022-0,,,,,image/jpeg
+bs023-0,bs023-0.jpg,Gold Baseball Cap,,,,Clothing; Other Clothing,B0085,compound_object; image/jpeg
+bs023-1,bs023-0.jpg,Gold Baseball Cap,bs023-0,,,,,image/jpeg
+bs023-2,bs023-1.jpg,"Gold Baseball Cap, profile view",bs023-0,,,,,image/jpeg
+bs023-3,bs023-2.jpg,Gold Baseball Cap on Bernstein Bust,bs023-0,,,,,image/jpeg
+bs024-0,,Interview with Phil Ponella,,2024-10-18,,,,compound_object 
+bs024-1,bs024-1.mp3,Introduction to the collection,bs024-0,,,,,audio/mp3
+bs024-2,bs024-2.mp3,Value of the collection,bs024-0,,,,,audio/mp3
+bs024-3,bs024-3.mp3,The Grammys,bs024-0,,,,,audio/mp3
+bs024-4,bs024-4.mp3,Grammy anecdote,bs024-0,,,,,audio/mp3
+bs024-5,bs024-5.mp3,Story behind the Michael Jackson Drawing,bs024-0,,,,,audio/mp3
+bs024-6,bs024-6.mp3,Brahms' Conductor Stool,bs024-0,,,,,audio/mp3
+bs024-7,bs024-7.mp3,Desks,bs024-0,,,,,audio/mp3
+bs024-8,bs024-8.mp3,Baby Grand Piano,bs024-0,,,,,audio/mp3
