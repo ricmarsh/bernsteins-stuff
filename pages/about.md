@@ -18,9 +18,9 @@ The <a href="https://music.indiana.edu/about/cook-music-library/bernstein.html">
 
 ## Why call it "stuff"?
 Phil Ponella, director of the William and Gayle Cook Music Library, explains why he calls much of this collection's contents "stuff": 
-{% include feature/audio.html objectid="bs024-1.mp3" width="50" %}
+{% include feature/audio.html objectid="bs024-1" width="50" %}
 He goes on to explain the potential value of such mundane objects:
-{% include feature/audio.html objectid="bs024-2.mp3" width="50" %}
+{% include feature/audio.html objectid="bs024-2" width="50" %}
 
 ## Acknowledgements
 This collection was created as part of the final project for Z652 - Digital Libraries. I would like to thank Professor John Walsh and Gyuri Kang for their assistance on this project, as well as their instruction for Z652 all semester. I would also like to thank Phil Ponella for granting me access to the Bernstein Collection and for his invaluable input on the collection.
