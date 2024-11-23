@@ -4,6 +4,6 @@ Browse,/browse.html
 Subjects,/subjects.html
 Timeline,/timeline.html
 Data,
-Dataset,/data.html, Data
-Metadata Application Profile, /MAP.html, Data
-About, /about.html
+Dataset,/data.html,Data
+Metadata Application Profile,/MAP.html,Data
+About,/about.html
